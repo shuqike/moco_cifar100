@@ -1,2 +1,6 @@
 cl/*
 data/*
+**/ckp_0
+**/ckp_best_cifar10-test
+**/ckp_best_stl-test
+**/ckp_last
