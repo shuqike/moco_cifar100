@@ -167,3 +167,5 @@ data/*
 **/ckp_best_cifar10-test
 **/ckp_best_stl-test
 **/ckp_last
+CLIP/.DS_Store
+.DS_Store
